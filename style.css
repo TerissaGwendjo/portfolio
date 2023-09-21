@@ -1,0 +1,81 @@
+body {
+    background-color:#D7AF70 ;
+    size: 100%;
+}
+
+/* fitting logo on the header,positioning, header flex boxes, hover, background image, etc... */
+
+.img1 {
+    width: 60px;
+    margin: 10px;
+}
+
+.head1 {
+    display: flex;
+    justify-content: space-between;
+    background-color: #d7af70;
+    opacity: 0.5;
+} 
+
+header {
+    position: sticky;
+    top: 0;
+    z-index: 99;
+}
+.head1 li {
+    display: inline-block;
+    padding: 8px;
+    justify-content: space-evenly; 
+    background-color: rgb(235, 132, 6);
+    transition: all 0.3s;
+}
+head1 ul {
+    background-color: white;
+}
+header li:hover {
+    background-color: white;
+    transform: scale(1.2);
+}
+
+.head1 ul {
+    justify-content: space-between;
+    gap: 20px;
+}
+header a {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.imghome:hover {
+    transform: scale(1.2);
+}
+
+
+/* styling of the links with unordered lists and iconsc*/
+
+.contact a{
+    text-decoration: none;
+    margin-left: 10px;
+    transition: all 0.3s;
+    color: brown;
+    padding: 10px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.contact li:hover {
+    background-color: rgba(165, 42, 42,0.5);
+    transform: scale(1.2);
+    
+}
+.contact ul {
+    list-style-type: none;
+}
+.contact i {
+    color: brown;
+    font-size: 40px;
+}
+ 
+  
