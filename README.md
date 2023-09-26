@@ -1,6 +1,6 @@
 # portfolio
 <h1 align="center">Hi 👋, here is my Portfolio</h1>
-<h3 align="center">This Project is all about my Portolio. I created a Website where I tell you a bit about myself, my Educational Background, skills and whatnot. To be able to create this Website, I used tools like html and css</h3>
+<h4 align="left">This Project is all about my Portolio. I created a Website where I tell you a bit about myself, my Educational Background, skills and whatnot. To be able to create this Website, I used tools like html and css</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terissagwendjo&label=Profile%20views&color=0e75b6&style=flat" alt="terissagwendjo" /> </p>
 🌱 I’m currently learning **JAVA programming language**
 
